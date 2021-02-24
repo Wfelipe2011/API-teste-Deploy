@@ -7,3 +7,5 @@ function tempo(req, res) {
       date: dataAtual.toGMTString()
   })
 }
+
+export default tempo;
